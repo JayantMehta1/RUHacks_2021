@@ -1,0 +1,162 @@
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  color: #3d3d3d;
+}
+
+h1 {
+  font-style: italic;
+  color: #ff6f00;
+}
+
+video {
+  display: block;
+}
+
+section {
+  opacity: 1;
+  transition: opacity 500ms ease-in-out;
+}
+
+.removed {
+  display: none;
+}
+
+.invisible {
+  opacity: 0.2;
+}
+
+.camView {
+  position: relative;
+  float: left;
+  width: calc(100% - 20px);
+  margin: 10px;
+  cursor: pointer;
+}
+
+.camView p {
+  position: absolute;
+  padding: 5px;
+  background-color: rgba(255, 111, 0, 0.85);
+  color: #fff;
+  border: 1px dashed rgba(255, 255, 255, 0.7);
+  z-index: 2;
+  font-size: 12px;
+}
+
+.highlighter {
+  background: rgba(0, 255, 0, 0.5);
+  border: 1px dashed #fff;
+  z-index: 1;
+  position: absolute;
+}
+
+.highlighter2 {
+  background: rgba(255, 247, 0, 0.5);
+  border: 1px dashed #fff;
+  z-index: 1;
+  position: absolute;
+}
+
+.highlighter3 {
+  background: rgb(255, 0, 0, 0.75);
+  border: 1px dashed #fff;
+  z-index: 1;
+  position: absolute;
+}
+
+.slide-1-bg {
+  background: url("https://temariosoficiales.com/wp-content/uploads/2019/10/Oposiciones-conserje-Crevillente.jpg");
+  background-size: cover;
+  background-position: bottom;
+  box-shadow: inset 0 0 5rem rgba(0, 0, 0, 0.3);
+}
+
+#slide-2-bg {
+  background: url("https://i.ibb.co/BTSq4G4/Oposiciones-conserje-Crevillente.pngg");
+  background-size: cover;
+  background-position: bottom;
+  box-shadow: inset 0 0 5rem rgba(0, 0, 0, 0.3);
+}
+
+/* .san-data {
+  padding-top: 20%;
+  padding-bottom: 20%;
+} */
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  border-radius: 10px;
+}
+
+#firstTitle {
+  font-family: "Inter", sans-serif;
+  font-weight: 100;
+  font-size: 100px;
+  font-style: normal !important;
+  color: black;
+}
+
+#secondTitle {
+  font-family: "Inter", sans-serif;
+  font-weight: 100;
+  font-size: 4rem;
+  font-style: normal !important;
+  color: black;
+}
+
+#firstDesc {
+  font-family: "Inter", sans-serif;
+  font-weight: 200;
+  font-size: 1.95rem;
+  font-style: normal !important;
+  color: black;
+}
+#secondDesc {
+  font-family: "Inter", sans-serif;
+  font-weight: 200;
+  font-size: 1.5rem;
+  font-style: normal !important;
+  color: black;
+}
+
+#secondDescDiv {
+  background: white;
+  height: 30em;
+  margin: auto;
+  width: 50%;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.p-slide-2 {
+  padding-right: 20%;
+  padding-left: 20%;
+}
+
+/* .webcam {
+  display: flex;
+  align-items: center; */
+/* } */
+
+#secondPage {
+  /* background: linear-gradient(#faf0e6, #fff0db); */
+  background: linear-gradient(white, #f5efe8);
+  /* box-shadow: inset 0 0 5rem rgba(0, 0, 0, 0.2); */
+}
+
+#thirdPage {
+  /* background: linear-gradient(#fff0db, #eed9c4); */
+  background: linear-gradient(#f5efe8, #a59982);
+}
+
+.second-page-p {
+  font-family: "Bai Jamjuree", sans-serif;
+  font-weight: 300;
+  font-size: 1.25rem;
+  font-style: normal !important;
+  color: black;
+}
