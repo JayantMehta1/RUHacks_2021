@@ -1,3 +1,7 @@
+## Link to Project
+
+https://dry-ravine-04073.herokuapp.com/
+
 ## Inspiration
 
 Viruses and germs such as Covid-19 and the Flu pose a major health risk to humans especially in public places such as airports, hotels, malls, offices and parks alike where viruses can spread. Current cleaning standards follow an incredibly inefficient and ineffective systematic timing method. Publicly used objects go through periods of unexpected high usage without being cleaned, or cleaned completely without a single use and need to do so. When overcleaning, time, resources, and energy is wasted and the cleaning personnel have to walk extended lengths across the malls, or travel from park to park, sanitizing items that may have not been used at all.
